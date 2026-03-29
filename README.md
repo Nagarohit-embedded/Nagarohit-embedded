@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Naga Rohit 
 
-<!--
-**Nagarohit-embedded/Nagarohit-embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Embedded Systems Engineer
 
-Here are some ideas to get you started:
+- STM32 | ESP32 | Embedded C  
+- UART | SPI | I2C | FreeRTOS  
+- Real-time firmware development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projects
+- UART Driver (Register-Level Programming)
+-  6-DOF Robotic Arm (PWM + UART)
+-  Conveyor Fault Detection System
+
+##  Skills
+- Embedded C / C++
+- Microcontrollers (STM32, ESP32)
+- Communication Protocols (UART, SPI, I2C)
+
+##  Goal
+To build efficient real-time embedded systems and work as a Firmware Engineer
