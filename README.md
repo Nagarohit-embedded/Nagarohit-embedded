@@ -1,20 +1,18 @@
-# Hi, I'm Naga Rohit 
+#  Hi, I'm Naga Rohit
 
-## Embedded Systems Engineer
-
-- STM32 | ESP32 | Embedded C  
-- UART | SPI | I2C | FreeRTOS  
-- Real-time firmware development  
-
-##  Projects
-- UART Driver (Register-Level Programming)
--  6-DOF Robotic Arm (PWM + UART)
--  Conveyor Fault Detection System
+🔧 Embedded Systems Engineer | Firmware Developer  
 
 ##  Skills
-- Embedded C / C++
-- Microcontrollers (STM32, ESP32)
-- Communication Protocols (UART, SPI, I2C)
+- Embedded C
+- STM32, ESP32
+- UART, SPI, I2C
+- FreeRTOS (Learning)
+
+##  Projects
+- Hotel Booking System (C)
+- UART Driver Implementation
+- 6-DOF Robotic Arm
+- Automated conveyor inspection system
 
 ##  Goal
-To build efficient real-time embedded systems and work as a Firmware Engineer
+To build efficient and scalable embedded systems for automotive and real-time applications.
